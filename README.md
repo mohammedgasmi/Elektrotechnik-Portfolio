@@ -18,3 +18,6 @@ I am documenting my progress to prepare for an **Ausbildung** (Apprenticeship) i
 * **Star Connection (Sternschaltung)**
 * **Delta Connection (Dreieckschaltung)**
 * **Calculations:** Power in 3-phase systems.
+---
+### 🖼️ Example Calculation (Three-Phase System)
+![Three-Phase Exercise](./licensed-image.jfif)
